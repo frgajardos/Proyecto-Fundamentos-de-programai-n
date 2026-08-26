@@ -1,2 +1,2 @@
-# Proyecto-Fundamentos-de-programai-n
-Repositorio para la clase "Funfamentos de programación" semestre agosto - diciembre 2026 
+# Proyecto Fundamentos de programación
+Repositorio para la clase "Fundamentos de programación" semestre agosto - diciembre 2026 
