@@ -11,7 +11,4 @@ El presente proyecto tiene como objetivo desarrollar un programa de finanzas per
 
 El sistema deberá utilizar un algoritmo que permita procesar las transacciones registradas y obtener información relevante para el usuario. Entre las operaciones principales se encuentra la suma de todos los ingresos, la suma de todos los egresos y el cálculo del balance financiero del periodo registrado, obtenido mediante la diferencia entre los ingresos y los egresos totales. Con base en este balance, el sistema podrá indicar si la persona se encuentra en una situación de ahorro o de déficit.
 
-**Instrucciones**
-
-Descarga el archivo y correr en terminal con 
-https://github.com/frgajardos/Proyecto-Fundamentos-de-programai-n/blob/main/Finanzas_personales.py
+Gracias por visitar.
