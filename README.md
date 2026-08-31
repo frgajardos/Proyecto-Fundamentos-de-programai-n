@@ -14,3 +14,4 @@ El sistema deberá utilizar un algoritmo que permita procesar las transacciones 
 **Instrucciones**
 
 Descarga el archivo y correr en terminal con 
+https://github.com/frgajardos/Proyecto-Fundamentos-de-programai-n/blob/main/Finanzas_personales.py
